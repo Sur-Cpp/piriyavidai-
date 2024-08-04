@@ -1,0 +1,6 @@
+#include <iostream>
+using namespace std;
+int main () {
+  cout<<"desc = octal / Base 8";
+  cout<<"https://www.youtube.com/watch?v=CjSzCuC7tOI";
+}
